@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	const token string = "5566730175:AAFJ8IvuND_PywIut4MM7Qm8n4fN-Gk-Qik"
+	const token string = "your_telegram_api_token"
 	const timeToBlink = 42 // send message to straighten your back and blink every 42 minutes
 	const msgText string = "Выпрями спину и закрой глаза на 10 секунд"
 
